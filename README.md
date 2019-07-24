@@ -4,7 +4,7 @@ create local directory
 ```
 $ mkdir src logs
 $ cd src
-$ git clone https://github.com/zapbd/honkaku-portal.git
+$ git clone https://github.com/zapbd/honkaku-portal.git .
 ```
 
 docker 
