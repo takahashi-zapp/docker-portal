@@ -2,7 +2,7 @@
 
 create local directory
 ```
-$ mkdir src
+$ mkdir src logs
 $ cd src
 $ git clone https://github.com/zapbd/honkaku-portal.git
 ```
